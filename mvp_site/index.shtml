@@ -29,21 +29,24 @@
             <i class="circular book link icon"></i>
             Civil servants
           </div>
-          <p>Have you always wanted to make public services that you and everyone else would love to use? Come and talk to everyone that is.</p>
+          <p>Have you always wanted to make public services that you and everyone else would love to use?</p>
+          <p>Come and talk to everyone that is.</p>
         </div>
         <div class="column">
           <div class="ui icon header">
             <i class="circular cart link icon"></i>
             Public contractors
           </div>
-          <p>Are you the power behind the great minds in government helping them change the world? Come and share your experience with us.</p>
+          <p>Are you the power behind the great minds in government helping them change the world?</p>
+          <p>Come and share your experience with us.</p>
         </div>
         <div class="column">
           <div class="ui icon header">
             <i class="circular cloud upload link icon"></i>
             Citizens
           </div>
-          <p>Are you a citizen that has used government services and wanted to help make them better but had no idea who to talk to? We will show you how to make a pull request and how to get it accepted.</p>
+          <p>Are you a citizen that has used government services and wanted to help make them better but had no idea who to talk to?</p>
+          <p>We will show you how to make a pull request and how to get it accepted.</p>
         </div>
       </div>
     </div>
