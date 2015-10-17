@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+  <!--#include file="header.html" -->
+  <title>Gov Geeks</title>
+
+</head>
+<body id="home">
+  <div class="ui inverted page grid masthead segment">
+    <div class="column">
+      <!--#include file="menu.html" -->
+      <div class="ui hidden transition information">
+        <h1 class="ui inverted header">
+          Government Geeks
+        </h1>
+        <p>Are you passionate about public service? Do you go crazy for creative solutions to the big problems?</p>
+        <p>We do too, so come and join us.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="ui page grid overview segment">
+    <div class="ui two wide column"></div>
+    <div class="twelve wide column">
+      <div class="ui three column center aligned stackable divided grid">
+        <div class="column">
+          <div class="ui icon header">
+            <i class="circular book link icon"></i>
+            Civil servants
+          </div>
+          <p>Have you always wanted to make public services that you and everyone else would love to use? Come and talk to everyone that is.</p>
+        </div>
+        <div class="column">
+          <div class="ui icon header">
+            <i class="circular cart link icon"></i>
+            Public contractors
+          </div>
+          <p>Are you the power behind the great minds in government helping them change the world? Come and share your experience with us.</p>
+        </div>
+        <div class="column">
+          <div class="ui icon header">
+            <i class="circular cloud upload link icon"></i>
+            Citizens
+          </div>
+          <p>Are you a citizen that has used government services and wanted to help make them better but had no idea who to talk to? We will show you how to make a pull request and how to get it accepted.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!--#include file="share_awesome.html" -->
+
+  <!--#include file="footer.html" -->
+
+</body>
+
+</html>
