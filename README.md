@@ -17,3 +17,9 @@ mongoose -document_root ./ -enable_directory_listing yes -index_files index.shtm
 http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Open+Sans:300italic,400,300,700
 http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.js
 
+## TODO
+
+- Register SSL
+- Add first blog post
+- Copy code of conduct from somewhere (18F)
+- Figure out best way to link back to all of the cool gov sites
