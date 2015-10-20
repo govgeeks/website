@@ -23,3 +23,5 @@ http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.js
 - Add first blog post
 - Copy code of conduct from somewhere (18F)
 - Figure out best way to link back to all of the cool gov sites
+- Public slack channels
+- Public slack reg system that 18F use
