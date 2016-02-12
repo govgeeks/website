@@ -16,6 +16,7 @@ mongoose -document_root ./ -enable_directory_listing yes -index_files index.shtm
 # Remote resources brought in
 http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Open+Sans:300italic,400,300,700
 http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.js
+http://contributor-covenant.org/
 
 ## TODO
 
